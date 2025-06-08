@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-attendance/static/css/main.e7e832e7.css",
+    "main.js": "/smart-attendance/static/js/main.a7273b60.js",
+    "index.html": "/smart-attendance/index.html",
+    "main.e7e832e7.css.map": "/smart-attendance/static/css/main.e7e832e7.css.map",
+    "main.a7273b60.js.map": "/smart-attendance/static/js/main.a7273b60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7e832e7.css",
+    "static/js/main.a7273b60.js"
+  ]
+}

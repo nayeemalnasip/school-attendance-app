@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/school-attendance-app/static/css/main.e7e832e7.css",
-    "main.js": "/school-attendance-app/static/js/main.e9eaa3da.js",
+    "main.css": "/school-attendance-app/static/css/main.487365ea.css",
+    "main.js": "/school-attendance-app/static/js/main.a8608beb.js",
     "index.html": "/school-attendance-app/index.html",
-    "main.e7e832e7.css.map": "/school-attendance-app/static/css/main.e7e832e7.css.map",
-    "main.e9eaa3da.js.map": "/school-attendance-app/static/js/main.e9eaa3da.js.map"
+    "main.487365ea.css.map": "/school-attendance-app/static/css/main.487365ea.css.map",
+    "main.a8608beb.js.map": "/school-attendance-app/static/js/main.a8608beb.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7e832e7.css",
-    "static/js/main.e9eaa3da.js"
+    "static/css/main.487365ea.css",
+    "static/js/main.a8608beb.js"
   ]
 }

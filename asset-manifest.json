@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/smart-attendance/static/css/main.e7e832e7.css",
-    "main.js": "/smart-attendance/static/js/main.a7273b60.js",
-    "index.html": "/smart-attendance/index.html",
-    "main.e7e832e7.css.map": "/smart-attendance/static/css/main.e7e832e7.css.map",
-    "main.a7273b60.js.map": "/smart-attendance/static/js/main.a7273b60.js.map"
+    "main.css": "/school-attendance-app/static/css/main.e7e832e7.css",
+    "main.js": "/school-attendance-app/static/js/main.e9eaa3da.js",
+    "index.html": "/school-attendance-app/index.html",
+    "main.e7e832e7.css.map": "/school-attendance-app/static/css/main.e7e832e7.css.map",
+    "main.e9eaa3da.js.map": "/school-attendance-app/static/js/main.e9eaa3da.js.map"
   },
   "entrypoints": [
     "static/css/main.e7e832e7.css",
-    "static/js/main.a7273b60.js"
+    "static/js/main.e9eaa3da.js"
   ]
 }
